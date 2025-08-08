@@ -1,6 +1,6 @@
 # Hi👋, I'm Adnan Yasir
 
-**Frontend Developer | CSE Student at KIET Group of Institutions**
+**Full-Stack Developer | CSE Student at KIET Group of Institutions**
 
 ---
 
