@@ -17,6 +17,6 @@
 ---
 
 ### 💻 Tech Stack:
-C | C++ | Java | JavaScript | HTML | Python | Vercel | Express.js | JWT | NodeJS | React | Socket.io | Vite | TailwindCSS | MySQL | MongoDB | 
+C++ | Java | JavaScript | HTML | Python | Vercel | Express.js | JWT | NodeJS | React | Socket.io | Vite | TailwindCSS | MySQL | MongoDB | 
 
 
