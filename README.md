@@ -10,7 +10,7 @@
 - 🤝 I’m open to: Internships, freelance projects, and collaborative open-source work.  
 - 💬 Ask me about: React.js, Node.js, MongoDB, Express, Git, and project structuring.  
 - 📫 How to reach me: mr.adnan.yasir@gmail.com  
-- 📄 Know more about me: [View My Resume](https://drive.google.com/file/d/1ODLfK7w3RGzJYhBxQKo6jtYWkxk7vRs-/view?usp=sharing)  
+- 📄 Know more about me: [View My Resume](https://drive.google.com/file/d/1X12rk4E74a-WbrSjAJSZ2mR8A6cOdW6O/view?usp=sharing)  
 
  
 
